@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sir-Deon
-- 👀 I’m a software devlopment
+- 👀 I’m a fullstack software devloper
 - 🌱 I’m a blockchain developer
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me ...
